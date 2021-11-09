@@ -1,0 +1,12 @@
+pyinstaller==4.1
+browser-history
+pynput==1.6.8
+opencv-python
+cryptography
+pyperclip
+colorama
+psutil
+GPUtil
+numpy
+mss
+eel

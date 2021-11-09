@@ -1,0 +1,40 @@
+{
+    "name": "god-view-gui",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@types/react": "^16.9.43",
+        "@types/react-alert": "^5.2.0",
+        "@types/react-dom": "^16.9.8",
+        "@types/react-redux": "^7.1.9",
+        "@types/styled-components": "^5.1.1",
+        "flv.js": "^1.5.0",
+        "plyr": "^3.6.3",
+        "react": "^16.13.1",
+        "react-alert": "^7.0.2",
+        "react-dom": "^16.13.1",
+        "react-icons": "^3.10.0",
+        "react-redux": "^7.2.1",
+        "react-scripts": "^3.4.2",
+        "redux": "^4.0.5",
+        "styled-components": "^5.1.1",
+        "typescript": "^3.7.5"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version",
+            "last 1 edge version"
+        ]
+    }
+}
